@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManuLabricole
 - 👀 I’m interested in web3, blockchain, python, react, but : but unfortunately i'm CAD designer... The journey begins
-- 🌱 I’m currently learning python, dash App
-- 💞️ I’m looking to collaborate on python App, dApp
+- 🌱 I’m currently learning React / JS
+- 💞️ I’m looking to learn React / Python / UI / UX / ... hungry boy
 - 📫 How to reach me : Mail
 
 <!---
